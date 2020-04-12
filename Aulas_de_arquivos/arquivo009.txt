@@ -1,0 +1,3 @@
+Nome: Carlos
+Idade: 22
+Peso: 73.500000
