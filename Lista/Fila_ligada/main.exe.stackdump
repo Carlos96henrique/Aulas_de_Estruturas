@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00401285
+eax=00000007 ebx=0022CC7C ecx=20028270 edx=00000002 esi=0022CC90 edi=0022CC90
+ebp=0022CC28 esp=0022CC00 program=C:\Users\Carlos\Desktop\Aulas_de_Estruturas\Lista\Fila_ligada\main.exe, pid 788, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CC28  00401285 (0022CC7C, 00000002, 0000000B, 61081513)
+0022CC58  004011C2 (00000001, 0022CC7C, 200280F0, 61009DE8)
+0022CD28  61009E4A (00000000, 0022CD84, 61008DE0, 00000000)
+End of stack trace
